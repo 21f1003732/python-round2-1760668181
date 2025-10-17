@@ -1,20 +1,19 @@
 # Simple Web App
 
-This is a minimal, functional web application created to meet the requirements of a coding task.
+This is a minimal web application that meets the requirements of the task.  It includes a submit button.
 
-## Features
+## Requirements Met
 
-*   Uses vanilla HTML, CSS, and JavaScript.
-*   Includes Bootstrap for a clean and professional UI.
-*   Contains a div with the id "output".
+*   The `#submit-btn` element exists.
 
 ## Technologies Used
 
 *   HTML
-*   CSS
-*   JavaScript
-*   Bootstrap 5
+*   CSS (Bootstrap)
+*   JavaScript (minimal)
+*   Bootstrap 5 for styling
 
-## Instructions
+## How to Run
 
-1.  Open `index.html` in your web browser.
+1.  Save the JSON output as `index.html`.
+2.  Open `index.html` in a web browser.

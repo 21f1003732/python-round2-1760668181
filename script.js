@@ -1,0 +1,1 @@
+// No separate JavaScript needed for this simple app.
